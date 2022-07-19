@@ -1,3 +1,6 @@
+# Codecademy project
+
+
 # Elizabeth & Philip
 Elizabeth and Philip are inviting everyone to their wedding! They would like all the guests to RSVP to their wedding by adding their names to the list of the guests in this repository.
 
